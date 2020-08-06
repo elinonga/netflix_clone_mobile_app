@@ -1,6 +1,6 @@
 # mezza_flix
 
-A new Flutter application.
+Joined in on Netlfix's Mobile App Coding Challenge and this is what I developed.
 
 ## Getting Started
 
