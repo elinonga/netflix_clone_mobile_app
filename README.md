@@ -2,15 +2,9 @@
 
 Joined in on Netlfix's Mobile App Coding Challenge and this is what I developed.
 
-## Getting Started
+## Follow Us
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://flutter.dev/docs/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://flutter.dev/docs/cookbook)
-
-For help getting started with Flutter, view our
-[online documentation](https://flutter.dev/docs), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Facebook - https://www.facebook.com/elinonga
+Instagram - https://www.instagram.com/elinongagroup/
+YouTube - https://www.youtube.com/channel/UC1ZSpy8xUSaRY54M6o1MHMA
+Twitter - https://twitter.com/elinongagroup
